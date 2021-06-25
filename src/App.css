@@ -1,0 +1,17 @@
+#canvas-container{
+  width: 100%;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+}
+
+.titulo{
+  z-index: 10;
+  position: fixed;
+  color: white;
+  cursor: pointer;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  margin-top: 0;
+}
